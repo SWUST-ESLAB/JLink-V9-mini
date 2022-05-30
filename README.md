@@ -17,19 +17,19 @@ Have a look:
 
 2. Modify the Pcb & Sch files as you wish!
 
-3. Pcb assembled
+   1. PCB assembled
 
-4. Flash Bootloader
+3. Flash Bootloader
 
    - start J-Flash V6.34
-   - open proect : bootloader.jflash
+   - open project : bootloader.jflash
    - click **connect** button at **Target** Tab
    - click **Production Programming** button at **Target** Tab
    - re-plug your JLINK and configure it in J-Link Commander
    - when you open J-Link commander , you will be asked for upload your firmware, click Yes
-   - configure your Jlink via those commands
+   - configure your J-Link via those commands
 
-5. Configure your JLINK-V9
+4. Configure your JLINK-V9
 
    ```
    Environment：JLINK V6.34
