@@ -38,14 +38,14 @@ Have a look:
    Run the following commands in sequence under JLINK command
 
    ```shell
-   Exec SetSN=29534567     ;Add SN v9.5
+   Exec SetSN=29534567      ;Add SN v9.5
    Exec AddFeature GDB      ;Add GDB 
    Exec AddFeature RDI      ;Add RDI 
    Exec AddFeature FlashBP  ;Add FlashBP  
    Exec AddFeature FlashDL  ;Add FlashDL 
    Exec AddFeature JFlash   ;Add JFlash 
    Exec AddFeature RDDI     ;Add RDDI
-   vcom enable 			 ;Enable VCOM
+   vcom enable              ;Enable VCOM
    ```
 
    other version of SN
