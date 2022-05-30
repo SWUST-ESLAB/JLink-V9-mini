@@ -21,19 +21,19 @@ Have a look:
 
 4. Flash Bootloader
 
-   1. start J-Flash V6.34
-   2. open proect : bootloader.jflash
-   3. click **connect** button at **Target** Tab
-   4. click **Production Programming** button at **Target** Tab
-   5. re-plug your JLINK and configure it in J-Link Commander
-   6. when you open J-Link commander , you will be asked for upload your firmware, click Yes
-   7. configure your Jlink via this commands
+   - start J-Flash V6.34
+   - open proect : bootloader.jflash
+   - click **connect** button at **Target** Tab
+   - click **Production Programming** button at **Target** Tab
+   - re-plug your JLINK and configure it in J-Link Commander
+   - when you open J-Link commander , you will be asked for upload your firmware, click Yes
+   - configure your Jlink via those commands
 
 5. Configure your JLINK-V9
 
-   Environment：
-
-   JLINK V6.34
+   ```
+   Environment：JLINK V6.34
+   ```
 
    Run the following commands in sequence under JLINK command
 
